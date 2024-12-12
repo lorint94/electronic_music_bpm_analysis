@@ -1,0 +1,1 @@
+This notebook investigates changes in electronic music bpm over time using data from Spotify and Beatport. The extensive data from Beatport suggests that there has been a statistically significant increase in bpm since 1980. 
